@@ -10,7 +10,7 @@ Crawl fund data from https://fund.eastmoney.com/, then score them in MySQL datab
 
 爬取的数据如下
 
-![image-20220515121133223](https://raw.githubusercontent.com/shizhengLi/image_bed_02/main/img/image-20220515121133223.png)
+![image-20220515121133223](./images/image-20220515121133223.png)
 
 
 
